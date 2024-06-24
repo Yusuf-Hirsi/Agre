@@ -120,6 +120,7 @@ body{
 }
 .service h1{
     font-size: 120px;
+    color: rebeccapurple;
 }
 .service p{
     width: 500px;
